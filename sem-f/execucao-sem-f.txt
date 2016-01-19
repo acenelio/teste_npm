@@ -1,0 +1,122 @@
+nelio@neliolenovo MINGW64 /c/xampp/htdocs/angular01-entrega
+$ npm install
+npm WARN deprecated lodash@1.0.2: lodash@<2.0.0 is no longer maintained. Upgrade to lodash@^3.0.0
+npm WARN optional dep failed, continuing fsevents@1.0.6
+npm WARN optional dep failed, continuing fsevents@1.0.6
+npm WARN optional dep failed, continuing fsevents@1.0.6
+
+> expect@1.13.4 postinstall C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-phpspec\node_modules\expect
+> node ./npm-scripts/postinstall.js
+
+
+> utf-8-validate@1.2.1 install C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\utf-8-validate
+> node-gyp rebuild
+
+
+C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\utf-8-validate>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node  rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Can't find Python executable "python", you can set the PYTHON env variable.
+gyp ERR! stack     at failNoPython (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:116:14)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:71:11
+gyp ERR! stack     at FSReqWrap.oncomplete (fs.js:82:15)
+gyp ERR! System Windows_NT 6.3.9600
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\utf-8-validate
+gyp ERR! node -v v4.2.4
+gyp ERR! node-gyp -v v3.0.3
+gyp ERR! not ok
+npm WARN deprecated npmconf@2.1.2: this package has been reintegrated into npm and is now out of date with respect to npm
+
+> bufferutil@1.2.1 install C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\bufferutil
+> node-gyp rebuild
+
+
+C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\bufferutil>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node  rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Can't find Python executable "python", you can set the PYTHON env variable.
+gyp ERR! stack     at failNoPython (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:116:14)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:71:11
+gyp ERR! stack     at FSReqWrap.oncomplete (fs.js:82:15)
+gyp ERR! System Windows_NT 6.3.9600
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\engine.io\node_modules\ws\node_modules\bufferutil
+gyp ERR! node -v v4.2.4
+gyp ERR! node-gyp -v v3.0.3
+gyp ERR! not ok
+npm WARN optional dep failed, continuing utf-8-validate@1.2.1
+npm WARN optional dep failed, continuing bufferutil@1.2.1
+
+> utf-8-validate@1.2.1 install C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\utf-8-validate
+> node-gyp rebuild
+
+
+C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\utf-8-validate>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node  rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Can't find Python executable "python", you can set the PYTHON env variable.
+gyp ERR! stack     at failNoPython (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:116:14)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:71:11
+gyp ERR! stack     at FSReqWrap.oncomplete (fs.js:82:15)
+gyp ERR! System Windows_NT 6.3.9600
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\utf-8-validate
+gyp ERR! node -v v4.2.4
+gyp ERR! node-gyp -v v3.0.3
+gyp ERR! not ok
+
+> bufferutil@1.2.1 install C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\bufferutil
+> node-gyp rebuild
+
+
+C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\bufferutil>if not defined npm_config_node_gyp (node "C:\Program Files\nodejs\node_modules\npm\bin\node-gyp-bin\\..\..\node_modules\node-gyp\bin\node-gyp.js" rebuild )  else (node  rebuild )
+gyp ERR! configure error
+gyp ERR! stack Error: Can't find Python executable "python", you can set the PYTHON env variable.
+gyp ERR! stack     at failNoPython (C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:116:14)
+gyp ERR! stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\node-gyp\lib\configure.js:71:11
+gyp ERR! stack     at FSReqWrap.oncomplete (fs.js:82:15)
+gyp ERR! System Windows_NT 6.3.9600
+gyp ERR! command "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\node_modules\\node-gyp\\bin\\node-gyp.js" "rebuild"
+gyp ERR! cwd C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\browser-sync\node_modules\socket.io\node_modules\socket.io-client\node_modules\engine.io-client\node_modules\ws\node_modules\bufferutil
+gyp ERR! node -v v4.2.4
+gyp ERR! node-gyp -v v3.0.3
+gyp ERR! not ok
+npm WARN optional dep failed, continuing utf-8-validate@1.2.1
+npm WARN optional dep failed, continuing bufferutil@1.2.1
+
+> spawn-sync@1.0.15 postinstall C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-sass\node_modules\node-sass\node_modules\cross-spawn\node_modules\spawn-sync
+> node postinstall
+
+
+> node-sass@3.4.2 install C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-sass\node_modules\node-sass
+> node scripts/install.js
+
+Binary downloaded and installed at C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-sass\node_modules\node-sass\vendor\win32-x64-46\binding.node
+
+> node-sass@3.4.2 postinstall C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-sass\node_modules\node-sass
+> node scripts/build.js
+
+` C:\xampp\htdocs\angular01-entrega\node_modules\laravel-elixir\node_modules\gulp-sass\node_modules\node-sass\vendor\win32-x64-46\binding.node ` exists.
+ testing binary.
+Binary is fine; exiting.
+npm ERR! Windows_NT 6.3.9600
+npm ERR! argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "install"
+npm ERR! node v4.2.4
+npm ERR! npm  v2.14.12
+npm ERR! path C:\Users\nelio\AppData\Roaming\npm-cache\strip-ansi\3.0.0\package\package.json.d7d9e21c6b6383a3c49495d72102ef34
+npm ERR! code EPERM
+npm ERR! errno -4048
+npm ERR! syscall rename
+
+npm ERR! Error: EPERM: operation not permitted, rename 'C:\Users\nelio\AppData\Roaming\npm-cache\strip-ansi\3.0.0\package\package.json.d7d9e21c6b6383a3c49495d72102ef34' -> 'C:\Users\nelio\AppData\Roaming\npm-cache\strip-ansi\3.0.0\package\package.json'
+npm ERR!     at Error (native)
+npm ERR!  { [Error: EPERM: operation not permitted, rename 'C:\Users\nelio\AppData\Roaming\npm-cache\strip-ansi\3.0.0\package\package.json.d7d9e21c6b6383a3c49495d72102ef34' -> 'C:\Users\nelio\AppData\Roaming\npm-cache\strip-ansi\3.0.0\package\package.json']
+npm ERR!   errno: -4048,
+npm ERR!   code: 'EPERM',
+npm ERR!   syscall: 'rename',
+npm ERR!   path: 'C:\\Users\\nelio\\AppData\\Roaming\\npm-cache\\strip-ansi\\3.0.0\\package\\package.json.d7d9e21c6b6383a3c49495d72102ef34',
+npm ERR!   dest: 'C:\\Users\\nelio\\AppData\\Roaming\\npm-cache\\strip-ansi\\3.0.0\\package\\package.json',
+npm ERR!   parent: 'chalk' }
+npm ERR!
+npm ERR! Please try running this command again as root/Administrator.
+
+npm ERR! Please include the following file with any support request:
+npm ERR!     C:\xampp\htdocs\angular01-entrega\npm-debug.log
